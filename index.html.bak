@@ -348,7 +348,16 @@
       <p class="sub">I directed the pre-deployment content strategy and owned the user-interface development for Newmont's migration to SharePoint 2010.</p>
             </div>
 
-            <div class="steps"></div>
+            <div class="steps">
+      <div class="card"><div class="num">01</div><div class="title">Content Inventory</div><div class="desc">Directed a comprehensive content inventory across multiple legacy platforms ahead of migration.</div></div>
+      <div class="card"><div class="num">02</div><div class="title">Content Classification</div><div class="desc">Built a content classification and taxonomy system to organize the migrated site.</div></div>
+      <div class="card"><div class="num">03</div><div class="title">Information Architecture (IA)</div><div class="desc">Developed the navigational sitemap and wireframes ahead of deployment.</div></div>
+      <div class="card"><div class="num">04</div><div class="title">Responsive Templates</div><div class="desc">Hand-coded pixel-perfect page templates using a responsive design grid system.</div></div>
+      <div class="card"><div class="num">05</div><div class="title">Migration Strategy</div><div class="desc">Facilitated migration strategy sessions to ensure content was organized and transitioned successfully.</div></div>
+      <div class="card"><div class="num">06</div><div class="title">UI Development</div><div class="desc">Owned all aspects of the user-interface development on SharePoint 2010.</div></div>
+      <div class="card"><div class="num">07</div><div class="title">Iterative UX Process</div><div class="desc">Oversaw the end-to-end user experience through an iterative, user-centered design process.</div></div>
+      <div class="card"><div class="num">08</div><div class="title">Platform Consolidation</div><div class="desc">Directed the consolidation of multiple legacy platforms into a single SharePoint 2010 site.</div></div>
+                </div>
         </div>
 
         <div class="gal-section">
